@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  margin-left: 1.5rem;
+}
+.recipes {
+  text-decoration: none;
+  color: olivedrab;
+}
+
+.pro-tip {
+  font-size: 0.55rem;
+}
